@@ -1,0 +1,14 @@
+G:\VSProject\MessageVerify\MessageVerify\bin\Release\MessageVerify.exe.config
+G:\VSProject\MessageVerify\MessageVerify\bin\Release\MessageVerify.exe
+G:\VSProject\MessageVerify\MessageVerify\bin\Release\MessageVerify.pdb
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.csprojAssemblyReference.cache
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.ASCIIForm.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.FileForm.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.InitIVForm.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.MainForm.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.Properties.Resources.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.VerifyForm.resources
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.csproj.GenerateResource.cache
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.csproj.CoreCompileInputs.cache
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.exe
+G:\VSProject\MessageVerify\MessageVerify\obj\Release\MessageVerify.pdb
